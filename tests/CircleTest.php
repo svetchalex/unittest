@@ -5,6 +5,13 @@ use PHPUnit\Framework\TestCase;
 
 class CircleTest extends TestCase
 {
+    public function test__construct()
+    {
+        $this->expectException(Exception::class);
+        $circle = new Circle(-1);
+        $this->fail('Тест не пройден');
+    }
+
     public function testGetArea()
     {
         $circle = new Circle(10);
