@@ -13,7 +13,7 @@ class SameParityTest extends TestCase
     {
         $sameparity = new SameParity();
         $result = $sameparity->getSameParity($numbers);
-        $this->assertEquals($expected, $result);
+        $this->assertSame($expected, $result);
     }
 
     public function provider()

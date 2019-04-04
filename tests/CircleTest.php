@@ -16,14 +16,14 @@ class CircleTest extends TestCase
     {
         $circle = new Circle(10);
         $area = $circle->getArea();
-        $this->assertEquals(314.15926535898, $area);
+        $this->assertSame(314.15926535898, $area);
     }
 
     public function testGetCircumference()
     {
         $circle = new Circle(10);
         $circumference = $circle->getCircumference();
-        $this->assertEquals(62.831853071796, $circumference);
+        $this->assertSame(62.831853071796, $circumference);
     }
 
 }

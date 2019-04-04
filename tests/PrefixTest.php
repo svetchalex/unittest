@@ -13,7 +13,7 @@ class PrefixTest extends TestCase
         $prefix = new Prefix();
         $result = $prefix->addPrefix($names, $pref);
 
-        $this->assertEquals($expected, $result);
+        $this->assertSame($expected, $result);
     }
 
     public function provider()
