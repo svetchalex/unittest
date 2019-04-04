@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e69afb5b-4c15-49e4-99dd-b768b6e3f538" name="Default Changelist" comment="">
+    <list default="true" id="e69afb5b-4c15-49e4-99dd-b768b6e3f538" name="Default Changelist" comment="UnitTests">
       <change afterPath="$PROJECT_DIR$/../untitled3/task1.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled3/task2.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled3/task3.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Circle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prefix.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Random.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SameParity.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/CircleTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/PrefixTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/SameParityTest.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/.phpunit.result.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/.phpunit.result.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/RandomTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/RandomTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/CircleTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/CircleTest.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +20,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/CircleTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+            <state relative-caret-position="105">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -38,26 +29,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Random.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="105">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SameParity.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/PrefixTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/RandomTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+            <state relative-caret-position="75">
+              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -65,8 +65,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Circle.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-270">
+            <state relative-caret-position="105">
               <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Prefix.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/SameParityTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -86,11 +104,11 @@
         <option value="$PROJECT_DIR$/FindIndex.php" />
         <option value="$PROJECT_DIR$/SameParity.php" />
         <option value="$PROJECT_DIR$/tests/FindIndexTest.php" />
-        <option value="$PROJECT_DIR$/tests/SameParityTest.php" />
-        <option value="$PROJECT_DIR$/tests/PrefixTest.php" />
         <option value="$PROJECT_DIR$/Circle.php" />
-        <option value="$PROJECT_DIR$/tests/CircleTest.php" />
+        <option value="$PROJECT_DIR$/tests/PrefixTest.php" />
+        <option value="$PROJECT_DIR$/tests/SameParityTest.php" />
         <option value="$PROJECT_DIR$/tests/RandomTest.php" />
+        <option value="$PROJECT_DIR$/tests/CircleTest.php" />
       </list>
     </option>
   </component>
@@ -157,34 +175,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHPUnit.RandomTest.testReset">
-    <configuration name="CircleTest.test__construct" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="CircleTest" file="$PROJECT_DIR$/tests/CircleTest.php" method="test__construct" scope="Method" />
+  <component name="RunManager" selected="PHPUnit.CircleTest.testGetArea">
+    <configuration name="CircleTest.testGetArea" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="CircleTest" file="$PROJECT_DIR$/tests/CircleTest.php" method="testGetArea" scope="Method" />
       <method v="2" />
     </configuration>
-    <configuration name="PrefixTest.testAddPrefix" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="PrefixTest" file="$PROJECT_DIR$/tests/PrefixTest.php" method="testAddPrefix" scope="Method" />
+    <configuration name="CircleTest.testGetCircumference" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="CircleTest" file="$PROJECT_DIR$/tests/CircleTest.php" method="testGetCircumference" scope="Method" />
       <method v="2" />
     </configuration>
     <configuration name="RandomTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
       <TestRunner class="RandomTest" file="$PROJECT_DIR$/tests/RandomTest.php" scope="Class" />
       <method v="2" />
     </configuration>
-    <configuration name="RandomTest.testGetNext" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="RandomTest" file="$PROJECT_DIR$/tests/RandomTest.php" method="testGetNext" scope="Method" />
-      <method v="2" />
-    </configuration>
     <configuration name="RandomTest.testReset" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
       <TestRunner class="RandomTest" file="$PROJECT_DIR$/tests/RandomTest.php" method="testReset" scope="Method" />
       <method v="2" />
     </configuration>
+    <configuration name="SameParityTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="SameParityTest" file="$PROJECT_DIR$/tests/SameParityTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="PHPUnit.RandomTest.testReset" />
-        <item itemvalue="PHPUnit.RandomTest.testGetNext" />
+        <item itemvalue="PHPUnit.CircleTest.testGetArea" />
+        <item itemvalue="PHPUnit.CircleTest.testGetCircumference" />
         <item itemvalue="PHPUnit.RandomTest" />
-        <item itemvalue="PHPUnit.CircleTest.test__construct" />
-        <item itemvalue="PHPUnit.PrefixTest.testAddPrefix" />
+        <item itemvalue="PHPUnit.RandomTest.testReset" />
+        <item itemvalue="PHPUnit.SameParityTest" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +218,7 @@
       <updated>1554274561003</updated>
       <workItem from="1554274563101" duration="782000" />
       <workItem from="1554275920486" duration="17686000" />
-      <workItem from="1554358360564" duration="320000" />
+      <workItem from="1554358360564" duration="4494000" />
     </task>
     <task id="LOCAL-00001" summary="UnitTests">
       <created>1554297837033</created>
@@ -216,54 +234,68 @@
       <option name="project" value="LOCAL" />
       <updated>1554300176065</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="UnitTests">
+      <created>1554358717492</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1554358717492</updated>
+    </task>
+    <task id="LOCAL-00004" summary="UnitTests">
+      <created>1554360902380</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1554360902380</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CircleTest_test__construct - 2019.04.03 at 16h 51m 27s.xml">
-      <configuration name="CircleTest.test__construct" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="CircleTest_test__construct - 2019.04.03 at 16h 51m 43s.xml">
-      <configuration name="CircleTest.test__construct" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="CircleTest_test__construct - 2019.04.03 at 16h 52m 15s.xml">
-      <configuration name="CircleTest.test__construct" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="RandomTest - 2019.04.04 at 09h 13m 08s.xml">
+    <history-entry file="RandomTest - 2019.04.04 at 09h 51m 22s.xml">
       <configuration name="RandomTest" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="RandomTest_testGetNext - 2019.04.04 at 09h 14m 38s.xml">
+    <history-entry file="RandomTest_testGetNext - 2019.04.04 at 09h 51m 37s.xml">
       <configuration name="RandomTest.testGetNext" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="RandomTest_testReset - 2019.04.04 at 09h 14m 58s.xml">
+    <history-entry file="RandomTest - 2019.04.04 at 09h 51m 48s.xml">
+      <configuration name="RandomTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="SameParityTest - 2019.04.04 at 09h 52m 14s.xml">
+      <configuration name="SameParityTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="RandomTest_testReset - 2019.04.04 at 09h 53m 28s.xml">
       <configuration name="RandomTest.testReset" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="RandomTest_testReset - 2019.04.04 at 09h 15m 06s.xml">
-      <configuration name="RandomTest.testReset" configurationId="PHPUnitRunConfigurationType" />
+    <history-entry file="RandomTest - 2019.04.04 at 09h 53m 52s.xml">
+      <configuration name="RandomTest" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="RandomTest_testGetNext - 2019.04.04 at 09h 17m 35s.xml">
-      <configuration name="RandomTest.testGetNext" configurationId="PHPUnitRunConfigurationType" />
+    <history-entry file="CircleTest_testGetArea - 2019.04.04 at 11h 17m 24s.xml">
+      <configuration name="CircleTest.testGetArea" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="RandomTest_testReset - 2019.04.04 at 09h 17m 40s.xml">
-      <configuration name="RandomTest.testReset" configurationId="PHPUnitRunConfigurationType" />
+    <history-entry file="CircleTest_testGetCircumference - 2019.04.04 at 11h 20m 19s.xml">
+      <configuration name="CircleTest.testGetCircumference" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="RandomTest_testReset - 2019.04.04 at 09h 17m 55s.xml">
-      <configuration name="RandomTest.testReset" configurationId="PHPUnitRunConfigurationType" />
+    <history-entry file="CircleTest_testGetArea - 2019.04.04 at 11h 21m 20s.xml">
+      <configuration name="CircleTest.testGetArea" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="CircleTest_testGetArea - 2019.04.04 at 11h 21m 33s.xml">
+      <configuration name="CircleTest.testGetArea" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18788000" />
+    <option name="totallyTimeSpent" value="22962000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17398244" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17398244" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -313,7 +345,28 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test.php" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/CircleTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tests/PrefixTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/RandomTest.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
@@ -327,6 +380,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Circle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Prefix.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
@@ -334,45 +394,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SameParity.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Random.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Circle.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-270">
+        <state relative-caret-position="105">
           <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/CircleTest.php">
+    <entry file="file://$PROJECT_DIR$/SameParity.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/RandomTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        <state relative-caret-position="233">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
         </state>
       </provider>
     </entry>

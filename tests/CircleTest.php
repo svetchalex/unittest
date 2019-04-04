@@ -12,18 +12,41 @@ class CircleTest extends TestCase
         $this->fail('Тест не пройден');
     }
 
-    public function testGetArea()
+    /**
+     * @dataProvider providerArea
+     */
+    public function testGetArea($radius, $exdpected)
     {
-        $circle = new Circle(10);
+        $circle = new Circle($radius);
         $area = $circle->getArea();
-        $this->assertSame(314.15926535898, $area);
+        $this->assertSame($exdpected, $area);
     }
 
-    public function testGetCircumference()
+    public function providerArea()
     {
-        $circle = new Circle(10);
-        $circumference = $circle->getCircumference();
-        $this->assertSame(62.831853071796, $circumference);
+        return array(
+            array(10, 314.15926535898),
+            array(15, 706.85834705771),
+            array(5, 78.539816339745)
+        );
     }
 
+    /**
+     * @dataProvider providerCircumference
+     */
+    public function testGetCircumference($radius, $expected)
+    {
+        $circle = new Circle($radius);
+        $circumference = $circle->getCircumference();
+        $this->assertSame($expected, $circumference);
+    }
+
+    public function providerCircumference()
+    {
+        return array(
+            array(10, 62.831853071796),
+            array(15, 94.247779607694),
+            array(5, 31.415926535898)
+        );
+    }
 }
